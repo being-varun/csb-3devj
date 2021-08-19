@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://being-varun.github.io/csb-3devj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://being-varun.github.io/csb-3devj/static/js/main.db35a8aa.chunk.js",
+    "main.js.map": "https://being-varun.github.io/csb-3devj/static/js/main.db35a8aa.chunk.js.map",
+    "runtime-main.js": "https://being-varun.github.io/csb-3devj/static/js/runtime-main.a95cf003.js",
+    "runtime-main.js.map": "https://being-varun.github.io/csb-3devj/static/js/runtime-main.a95cf003.js.map",
+    "static/js/2.4f51c97e.chunk.js": "https://being-varun.github.io/csb-3devj/static/js/2.4f51c97e.chunk.js",
+    "static/js/2.4f51c97e.chunk.js.map": "https://being-varun.github.io/csb-3devj/static/js/2.4f51c97e.chunk.js.map",
+    "index.html": "https://being-varun.github.io/csb-3devj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://being-varun.github.io/csb-3devj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4f51c97e.chunk.js.LICENSE.txt": "https://being-varun.github.io/csb-3devj/static/js/2.4f51c97e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a95cf003.js",
+    "static/js/2.4f51c97e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.db35a8aa.chunk.js"
+  ]
+}
